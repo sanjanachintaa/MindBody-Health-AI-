@@ -1,0 +1,3 @@
+train_models copy.ipynb
+data/
+.env
